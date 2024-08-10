@@ -1,0 +1,11 @@
+@font-face {
+font-family: 'horizon_bold';
+src: url('fonts/horizon_bold.eot');
+src: url('fonts/horizon_bold.eot?#iefix') format('embedded-opentype'),
+url('fonts/horizon_bold.woff2') format('woff2'),
+url('fonts/horizon_bold.woff') format('woff'),
+url('fonts/horizon_bold.ttf') format('truetype'),
+url('fonts/horizon_bold.svg#horizon_bold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
